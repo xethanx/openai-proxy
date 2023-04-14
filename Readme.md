@@ -1,4 +1,4 @@
-## T-Chat Proxy
+## CProxy
 
 npm:
 
@@ -19,4 +19,4 @@ python:
   openai.api_key = os.getenv("OPENAI_API_KEY")
 + openai.api_base = "https://closeai.deno.dev/v1"
 ```
-## by Ethan 2023/04/14
+### by Ethan 2023-04-13
